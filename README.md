@@ -28,8 +28,8 @@ python3 client.py
 ```sh
 node client.js
 ```
-クライアント側のターミナルで1~5の数字を入力してjsonファイルを呼び出す。<br>
-1~5の数字はrequest1.json~request5.jsonのファイル名に対応している。
+クライアント側のターミナルで1～5の数字を入力してjsonファイルを呼び出す。<br>
+1～5の数字はrequest1.json~request5.jsonのファイル名に対応している。
 
 ### 注意
 - 名前付きパイプ（UNIXソケット）を使用しているため、Windowsの標準的なコマンドプロンプトやPowerShellでは動作しません。
