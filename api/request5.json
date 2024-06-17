@@ -1,5 +1,5 @@
 {
-    "method": "validAnagram",
+    "method": "sort",
     "params": ["a", "b", "c"], 
     "param_types": ["char", "char", "char"],
     "id": 5
